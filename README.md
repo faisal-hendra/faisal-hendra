@@ -8,5 +8,6 @@ Currently learning React and TypeScript.
   
 ### Contact Me:
 You may get in touch with me via email below.
+<br>
 faisalhw06@gmail.com
 
