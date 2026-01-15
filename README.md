@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Faisal Hendra 👋
+Frontend Developer focused on building clean and easy-to-use web apps. 
+Currently learning React and TypeScript.
+### What I work with:
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,figma" />  
+</p>  
+  
+### Contact Me:
+You may get in touch with me via email below.
+faisalhw06@gmail.com
 
-<!--
-**faisal-hendra/faisal-hendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
