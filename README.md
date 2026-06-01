@@ -1,6 +1,6 @@
 ## Hi there, I'm Faisal Hendra
 
-Frontend developer specializing in React. I build clean, easy-to-use applications using web technologies. Currently exploring TypeScript and Rust.
+Web developer specializing in React. I build clean, easy-to-use applications using web technologies. Currently exploring TypeScript and Rust.
 
 ![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1e1e2e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
